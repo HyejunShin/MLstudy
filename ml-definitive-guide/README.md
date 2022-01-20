@@ -17,13 +17,13 @@
 ## Contents
 [Chapter2_02_04.ipynb](https://github.com/HyejunShin/MLstudy/blob/main/ml-definitive-guide/Chapter2_02_04.ipynb)
 
-  -iris classification
-  -Estimator and fit() predict() methods
-  -scikit learn modules
-  -model selection
-    -train_test_split()
-    -cross validation
-    -GridSearchCV
+  - iris classification
+  - Estimator and fit() predict() methods
+  - scikit learn modules
+  - model selection
+    - train_test_split()
+    - cross validation
+    - GridSearchCV
     
 
 

@@ -3,10 +3,26 @@
 
 <img src="https://github.com/HyejunShin/study/blob/main/ml-definitive-guide/cover.jpg" width="300">
 
+##Chapters
+1. numpy, pandas
+2. scikit learn
+3. evaluation metrics
+4. classification
+5. regression
+6. dimension reduction
+7. clustering
+8. NLP
+9. recommendation system
+
 [Chapter2_02_04.ipynb](https://github.com/HyejunShin/MLstudy/blob/main/ml-definitive-guide/Chapter2_02_04.ipynb)
-2. 사이킷런으로 시작하는 머신러닝 (machine learning using scikit learn)
-02. 붓꽃 품종 예측하기 (iris classification)
--Estimator 이해 및 fit(),predict() method
--사이킷런의 주요 모듈
--내장된 예제 데이터 세트
+
+  -iris classification
+  -Estimator and fit() predict() methods
+  -scikit learn modules
+  -model selection
+    -train_test_split()
+    -cross validation
+    -GridSearchCV
+    
+
 

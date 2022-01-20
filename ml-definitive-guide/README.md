@@ -1,5 +1,5 @@
 
-# 파이썬 머신러닝 완벽 가이드 (python ML definitive guide)
+# 파이썬 머신러닝 완벽 가이드 (python ML definitive guide)📘
 
 <img src="https://github.com/HyejunShin/study/blob/main/ml-definitive-guide/cover.jpg" width="300">
 

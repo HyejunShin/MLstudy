@@ -3,7 +3,7 @@
 
 <img src="https://github.com/HyejunShin/study/blob/main/ml-definitive-guide/cover.jpg" width="250">
 
-## Chapters
+## [Chapters](https://github.com/HyejunShin/MLstudy/blob/main/ml-definitive-guide/contents.pdf)
 1. numpy, pandas
 2. scikit learn
 3. evaluation metrics

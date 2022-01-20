@@ -18,12 +18,20 @@
 [Chapter2_02_04.ipynb](https://github.com/HyejunShin/MLstudy/blob/main/ml-definitive-guide/Chapter2_02_04.ipynb)
 
   - iris classification
-  - fit() predict() methods
-  - train_test_split()
-  - cross_val_score()
-  - KFold
-  - StratifiedKFold
-  - GridSearchCV
+    - DecisionTreeClassifier
+    - cross_val_score()
+    - KFold
+    - StratifiedKFold
+    - GridSearchCV
     
+[Chapter2_06.ipynb](https://github.com/HyejunShin/MLstudy/blob/main/ml-definitive-guide/Chapter2_06.ipynb)
 
-
+  - titanic
+    - data preprocessing
+    - DecisionTreeClassifier, RandomForestClassifier, LogisticRegression
+    - accuracy_score
+    - cross_val_score
+    - KFold
+    - GridSearchCV
+ 
+ 
